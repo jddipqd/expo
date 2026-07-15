@@ -43,6 +43,7 @@
 
 ### 💡 Others
 
+- Remove render time set state on `routeName` changes ([#47986](https://github.com/expo/expo/pull/47986) by [@Ubax](https://github.com/Ubax))
 - Refactor headless tabs not to rely on `routeNames` ([#48257](https://github.com/expo/expo/pull/48257) by [@Ubax](https://github.com/Ubax))
 - Add support for replace action in tabs ([#48256](https://github.com/expo/expo/pull/48256) by [@Ubax](https://github.com/Ubax))
 - Remove the deprecated static-navigation API from `expo-router/react-navigation`. ([#48071](https://github.com/expo/expo/pull/48071) by [@Ubax](https://github.com/Ubax))
